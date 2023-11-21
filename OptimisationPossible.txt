@@ -1,0 +1,16 @@
+Optimisation pour site NinaCarducci :
+
+Images :
+	-poids/taille des images trop lourde
+	-Format à modifier ( WebP / AVIF)
+HTML :
+	-pas de "title"
+	-pas de 'meta description"
+	-pas de "langue"
+	-pas de "alt" au images
+	-elements "h" pas dans l'ordre logique
+CSS :
+	-réduire le CSS non utilisé
+
+JavaScript :
+	-Refactoriser
